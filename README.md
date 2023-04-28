@@ -3,9 +3,9 @@ Real-time chat application that uses Socket.io, MongoDB, and Node.js. It allows 
 
 #### Install and Run: 
 cd Frontend <br>
-npm install
-npm start
+npm install <br>
+npm start <br> <br>
 
-cd Backend
-npm install
-npm start
+cd Backend <br>
+npm install <br>
+npm start <br>
